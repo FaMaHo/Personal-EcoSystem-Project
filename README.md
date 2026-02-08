@@ -41,3 +41,7 @@ Take care of optimizing the response speed of the AI ​​model on local hardwa
 * Using ESP32-Cam and implementing a lightweight model for Human Pose Estimation (only skeletal body points for privacy)
 * Detects slouching at the desk and small vibrations on the chair or table as an alert.
 * If the gaze is directed towards the phone for a long time, the system detects distraction.
+
+---
+
+> Let's see how much I can avoid using AI!
